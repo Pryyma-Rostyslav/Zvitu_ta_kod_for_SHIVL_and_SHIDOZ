@@ -1,0 +1,7 @@
+torch
+librosa
+numpy
+matplotlib
+gtts
+pydub
+soundfile
