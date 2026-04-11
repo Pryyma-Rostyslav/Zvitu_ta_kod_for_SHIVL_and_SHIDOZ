@@ -1,0 +1,14 @@
+{
+  "my3.png": {
+    "digit": 3,
+    "probability": 0.9999643564224243
+  },
+  "my6.png": {
+    "digit": 6,
+    "probability": 0.9912593960762024
+  },
+  "test1.png": {
+    "digit": 7,
+    "probability": 0.983357310295105
+  }
+}
